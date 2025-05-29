@@ -26,6 +26,9 @@ Or download ZIP manually and extract it.
    ```npm run watch```
 
 ## 📧 (Optional) Email Setup
+
+### Note: 
+this version has no cookies in order to be deployed on render
 To enable welcome emails on user registration, create a .env file in the project root with the following:
 ```WEBSITE_EMAIL=your_email@gmail.com
 WEBSITE_EMAIL_PASSWORD=your_password
